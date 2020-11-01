@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GraphicLayersPrototype</string>
+    <string name="tap_to_start">tap to start</string>
 </resources>
